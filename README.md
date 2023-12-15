@@ -1,4 +1,3 @@
-#OnlineClass-Attendance-Checking-Program
 **Program full name** : Student's Attendance Checking Program in OnlineClass Live Room <br><br>
 
  During the era when remote learning was just introduced due to COVID-19, EBS's online class platform couldn't sort students' names based on student ID, making it difficult to verify attendance. I created a program using BeautifulSoup for web crawling to sort names and compare them with the existing student ID list. Additionally, the program includes a function to detect students who haven't turned on their cameras.<br><br>
